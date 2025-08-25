@@ -1,0 +1,12 @@
+# デフォルトの無視リスト
+node_modules/
+.git/
+.next/
+dist/
+build/
+coverage/
+.DS_Store
+*.log
+
+# .envファイルを編集可能にするために、以下の行を追加
+!.env 
