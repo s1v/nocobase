@@ -100,5 +100,13 @@
   "Distinct": "重複排除",
   "Auto refresh": "自動更新",
   "Divide": "除算",
-  "Multiply": "乗算"
+  "Multiply": "乗算",
+  "Line Chart": "折れ線グラフ",
+  "Area Chart": "面積グラフ",
+  "Column Chart": "縦棒グラフ",
+  "Bar Chart": "棒グラフ",
+  "Pie Chart": "円グラフ",
+  "Dual Axes Chart": "二重軸グラフ",
+  "Scatter Chart": "散布図",
+  "Gauge Chart": "ゲージチャート"
 }

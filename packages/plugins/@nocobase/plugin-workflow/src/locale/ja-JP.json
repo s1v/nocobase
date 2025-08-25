@@ -215,5 +215,21 @@
   "Query users": "ユーザーをクエリ",
   "Add": "追加",
   "The workflow tasks page has already been created.": "ワークフロータスクページは既に作成されています。",
-  "No workflow tasks available. Please contact the administrator.": "利用可能なワークフロータスクがありません。管理者にお問い合わせください。"
+  "No workflow tasks available. Please contact the administrator.": "利用可能なワークフロータスクがありません。管理者にお問い合わせください。",
+  "Constant": "定数",
+  "Null": "ヌル",
+  "Boolean": "論理値",
+  "String": "文字列",
+  "Arithmetic calculation": "算術演算",
+  "Configure calculation": "演算設定",
+  "true": "真",
+  "false": "偽",
+  "Conditions": "条件設定",
+  "Fields that are not assigned a value will be set to the default value, and those that do not have a default value are set to null.": "値が割り当てられていないフィールドはデフォルト値に設定され、デフォルト値がないフィールドは null に設定されます",
+  "Trigger in executed workflow cannot be modified": "すでにワークフローを実行したトリガーは変更できません",
+  "Node in executed workflow cannot be modified": "すでに実行されたワークフローのノードは変更できません",
+  "Delete a main version will cause all other revisions to be deleted too.": "メインバージョンを削除すると、他のすべてのリビジョンも同時に削除されます。",
+  "Workflow will be triggered before or after submitting succeeded based on workflow type (supports pre/post action event in local mode, and approval event).": "ワークフローは、送信が成功する前または後に、ワークフローの種類に基づいてトリガーされます（ローカルモードでのアクション前後のイベントと承認イベントをサポート）。",
+  "Submit to workflow to \"Post-action event\" is deprecated, please use \"Custom action event\" instead.": "「ポストアクションイベント」にワークフローを送信することは廃止されましたので、「カスタムアクションイベント」を使用してください。",
+  "Update all eligible data at one time, which has better performance when the amount of data is large. But the updated data will not trigger other workflows, and will not record audit logs.": "対象データを一括で更新します。データ量が多い場合にパフォーマンスが向上します。ただし、更新されたデータは他のワークフローをトリガーせず、監査ログも記録しません。"
 }

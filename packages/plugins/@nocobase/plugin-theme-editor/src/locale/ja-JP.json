@@ -30,5 +30,7 @@
   "Initializing Editor...": "エディタを初期化しています...",
   "Save theme": "テーマを保存",
   "Please set a name for this theme": "このテーマに名前を付けてください",
-  "Please input the theme name": "テーマ名を入力してください"
+  "Please input the theme name": "テーマ名を入力してください",
+  "Theme": "テーマ",
+  "Local": "ローカル"
 }

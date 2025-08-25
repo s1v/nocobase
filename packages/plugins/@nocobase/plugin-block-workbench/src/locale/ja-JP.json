@@ -14,5 +14,6 @@
   "Add custom request": "カスタムリクエストを追加",
   "At least 1, up to 6": "最大6個、最小1個",
   "Items per row": "1行あたりの表示数",
-  "Ellipsis action title": "長い操作タイトルを省略"
+  "Ellipsis action title": "長い操作タイトルを省略",
+  "Workbench": "ワークベンチ"
 }

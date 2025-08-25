@@ -6,5 +6,6 @@
   "The phone number is not registered, please register first": "この電話番号は登録されていません。最初に登録してください",
   "Please keep and enable at least one authenticator": "少なくとも1つの認証器を保持して有効にしてください",
   "Please enter your username or email": "ユーザー名またはメールアドレスを入力してください",
-  "Please enter a valid username": "有効なユーザー名を入力してください"
+  "Please enter a valid username": "有効なユーザー名を入力してください",
+  "Please fill in your email address": "メールアドレスを入力してください"
 }

@@ -18,5 +18,7 @@
   "When node inside loop failed": "ループ内ノードが失敗した場合",
   "Continue loop on next item": "次の項目でループを継続",
   "Exit loop and continue workflow": "ループを終了してワークフローを継続",
-  "Exit workflow": "ワークフローを終了"
+  "Exit workflow": "ワークフローを終了",
+  "Loop index": "ループインデックス",
+  "Scope variables": "スコープ変数"
 }

@@ -38,5 +38,9 @@
   "See more": "続きを見る",
   "Aliyun OSS region part of the bucket. For example: \"oss-cn-beijing\".": "阿里云OSSバケットの地域部分。例：\"oss-cn-beijing\"",
   "Timeout": "タイムアウト",
-  "Upload timeout for a single file in milliseconds. Default is 600000.": "単一ファイルのアップロードタイムアウト（ミリ秒）。デフォルトは600000"
+  "Upload timeout for a single file in milliseconds. Default is 600000.": "単一ファイルのアップロードタイムアウト（ミリ秒）。デフォルトは600000",
+  "Storage display name": "ファイルストレージ名",
+  "Storage base URL": "Storage base URL",
+  "Minimum from 1 byte, maximum up to 1GB.": "最小サイズは1バイト、最大サイズは1GBです。",
+  "Keep file in storage when destroy record": "レコード削除時にファイルを保持"
 }
